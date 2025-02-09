@@ -1,1 +1,18 @@
-{}
+{
+  "collections": {
+    "pages": [
+      {
+        "id": "2sr9cn4",
+        "createdAt": 1739062953915,
+        "modifiedAt": 1739063559414,
+        "url": "/",
+        "title": "Home",
+        "metaDescription": "Website ",
+        "body": "<p>Nice stuff</p>",
+        "published": "",
+        "collectionName": "pages"
+      }
+    ]
+  },
+  "deletedIds": {}
+}
