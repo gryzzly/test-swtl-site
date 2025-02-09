@@ -11,6 +11,16 @@
         "body": "<p>Nice stuff</p>",
         "published": "",
         "collectionName": "pages"
+      },
+      {
+        "id": "vmj52in",
+        "createdAt": 1739063039555,
+        "modifiedAt": 1739063039555,
+        "url": "/",
+        "title": "Home",
+        "metaDescription": "asd",
+        "body": "<p>asd</p>",
+        "published": ""
       }
     ]
   },
