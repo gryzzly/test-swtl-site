@@ -4,11 +4,11 @@
       {
         "id": "vmj52in",
         "createdAt": 1739063039555,
-        "modifiedAt": 1739637492336,
+        "modifiedAt": 1739637561606,
         "url": "/",
         "title": "Home",
         "metaDescription": "asd",
-        "body": "<p><a href=\"/\">asd</a> hhh &lt;/script&gt;</p>",
+        "body": "<p><a href=\"/\">asd</a> hhh `&lt;script&gt;alert(\"hello\")&lt;/script&gt;`</p>",
         "published": "",
         "collectionName": "pages"
       }
