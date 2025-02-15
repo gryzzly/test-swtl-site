@@ -2,17 +2,6 @@
   "collections": {
     "pages": [
       {
-        "id": "2sr9cn4",
-        "createdAt": 1739062953915,
-        "modifiedAt": 1739063559414,
-        "url": "/",
-        "title": "Home",
-        "metaDescription": "Website ",
-        "body": "<p>Nice stuff</p>",
-        "published": "",
-        "collectionName": "pages"
-      },
-      {
         "id": "vmj52in",
         "createdAt": 1739063039555,
         "modifiedAt": 1739637464884,
@@ -25,5 +14,7 @@
       }
     ]
   },
-  "deletedIds": {}
+  "deletedIds": {
+    "2sr9cn4": 1739637477706
+  }
 }
