@@ -44,7 +44,7 @@
           "widget": "cloudinary-multi-upload",
           "widgetUrl": "http://localhost:8000/admin/vendor/multi-image-upload.js",
           "widgetConfig": {
-            "url": "https://api.cloudinary.com/v1_1 /dcvrycv7k/image/upload"
+            "url": "https://api.cloudinary.com/v1_1/dcvrycv7k/image/upload"
           }
         }
       ]
