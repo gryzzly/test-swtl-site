@@ -33,12 +33,14 @@
       {
         "id": "1frms8f",
         "createdAt": 1741467522977,
-        "modifiedAt": 1741467522977,
+        "modifiedAt": 1741472670502,
         "url": "/new-page",
         "title": "A newer page",
         "metaDescription": "Some new page",
         "body": "<p>Hello, here’s a link back to <a href=\"/\">home</a></p>",
-        "published": "true"
+        "published": "true",
+        "collectionName": "pages",
+        "images": "[\"https://res.cloudinary.com/dcvrycv7k/image/upload/v1741472668/swtl-cms/q53hebh1kide35v77vjb.jpg\"]"
       }
     ]
   },
