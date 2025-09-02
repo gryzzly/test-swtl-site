@@ -10,7 +10,7 @@
           "label": "Title",
           "name": "title",
           "widget": "string",
-          "description": "Title of a collection",
+          "description": "Title of a collection"
         },
         {
           "label": "Images",
