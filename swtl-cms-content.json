@@ -15,6 +15,13 @@
         "modifiedAt": 1737940164566,
         "title": "The concept of a children's abstract book about the life cycle of a star. \"Stellar evolution\".",
         "images": "[\"https://res.cloudinary.com/dcvrycv7k/image/upload/v1737940118/swtl-cms/dpjmc6zfjomu7idjp0qd.png\",\"https://res.cloudinary.com/dcvrycv7k/image/upload/v1737940123/swtl-cms/skuz5kwt0zr7p8ypl1uj.png\",\"https://res.cloudinary.com/dcvrycv7k/image/upload/v1737940129/swtl-cms/wgrhdbmhaqyy0yd208pg.png\",\"https://res.cloudinary.com/dcvrycv7k/image/upload/v1737940134/swtl-cms/njysl4kxbaeyyume7uup.png\",\"https://res.cloudinary.com/dcvrycv7k/image/upload/v1737940139/swtl-cms/ad1pbibd0ntxikbzywja.png\",\"https://res.cloudinary.com/dcvrycv7k/image/upload/v1737940144/swtl-cms/xjceyzbhzj1xuyqywxrp.png\",\"https://res.cloudinary.com/dcvrycv7k/image/upload/v1737940150/swtl-cms/zkwomg57vj1yjglfwdze.png\",\"https://res.cloudinary.com/dcvrycv7k/image/upload/v1737940156/swtl-cms/dveywzzas3cbewyfcfap.png\",\"https://res.cloudinary.com/dcvrycv7k/image/upload/v1737940162/swtl-cms/umpqnv9bztbesoqyhxub.png\"]"
+      },
+      {
+        "id": "1756834499300-504241x",
+        "createdAt": 1756834499300,
+        "modifiedAt": 1756834499300,
+        "title": "Croissants",
+        "images": "[\"https://res.cloudinary.com/dcvrycv7k/image/upload/v1756834485/swtl-cms/mhharpbaslrs2cigi1vx.jpg\"]"
       }
     ],
     "pages": [
@@ -44,7 +51,6 @@
       }
     ]
   },
-  "deletedIds": {
-    "2sr9cn4": 1739637477706
-  }
+  "deletedIds": {},
+  "lastModified": 1756834499310
 }
