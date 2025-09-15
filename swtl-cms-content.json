@@ -48,9 +48,18 @@
         "published": "true",
         "collectionName": "pages",
         "images": "[\"https://res.cloudinary.com/dcvrycv7k/image/upload/v1741472668/swtl-cms/q53hebh1kide35v77vjb.jpg\"]"
+      },
+      {
+        "id": "1757951026888-46bp5kn",
+        "createdAt": 1757951026888,
+        "modifiedAt": 1757951026888,
+        "url": "/foo",
+        "title": "foo",
+        "metaDescription": "foo",
+        "body": "<p>Foo foo</p>"
       }
     ]
   },
   "deletedIds": {},
-  "lastModified": 1756834499310
+  "lastModified": 1757951026896
 }
